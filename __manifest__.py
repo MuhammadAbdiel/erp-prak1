@@ -1,0 +1,22 @@
+{
+    "name": "New Addons",
+    "version": "1.0",
+    "author": "Muhammad Abdiel Firjatullah",
+    "website": "https://www.detik.com/",
+    "summary": "Ini adalah addons baru",
+    "description": """
+      Latihan membuat addons baru di odoo 1
+    """,
+    "depends": [
+        "base",
+    ],
+    "data": [],
+    "demo": [],
+    "test": [],
+    "image": [],
+    "qweb": [],
+    "css": [],
+    "application": True,
+    "installable": True,
+    "auto_install": False,
+}
